@@ -4,6 +4,7 @@ import java.util.*;
 
 /**
  * @author Lukin Artem
+ * link to github: github.com/kerbyy/ArrayListAndLinkedListTester
  */
 public class Main {
     /**
